@@ -1,0 +1,6 @@
+[submodule "server-adresses"]
+	path = server-adresses
+	url = git@github.com:Dariuzcm/server-adresses.git
+[submodule "client-react-addresses"]
+	path = client-react-addresses
+	url = git@github.com:Dariuzcm/client-react-addresses.git
